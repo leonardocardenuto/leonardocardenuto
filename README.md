@@ -8,11 +8,11 @@
 
 # 📊 GitHub Stats:
 <div style="display: flex; justify-content: space-between;">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardocardenuto&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
-  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardocardenuto&theme=tokyonight&hide_border=true" />
-  <img  height="176em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocardenuto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=leonardocardenuto&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardocardenuto&theme=tokyonight&hide_border=true" />
+  <img  height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocardenuto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
   <a href="https://discord.com/users/979443205730889818">
-  <img height="180em" src="https://lanyard.cnrad.dev/api/979443205730889818" alt="Discord Presence">
+  <img height="190em" src="https://lanyard.cnrad.dev/api/979443205730889818" alt="Discord Presence">
 </a>
 
 </div>
