@@ -10,6 +10,6 @@
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-stats.vercel.app/api?username=leonardocardenuto&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardocardenuto&theme=tokyonight&hide_border=true" />
-  <img width="452em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocardenuto&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
+  <img width="452em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardocardenuto&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 </div>
 
