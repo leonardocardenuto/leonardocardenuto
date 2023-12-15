@@ -8,3 +8,8 @@
     <img height="180em" src="https://lanyard.cnrad.dev/api/979443205730889818?theme=dark&idleMessage=Probably%20just%20chilling!&hideStatus=true">
   </a>
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
