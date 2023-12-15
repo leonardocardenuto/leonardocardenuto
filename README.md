@@ -17,10 +17,10 @@
 
 </div>
 
-###
+##
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/leonardocardenuto/leonardocardenuto/output/snake.svg" alt="Snake animation" />
 
-###
+##
